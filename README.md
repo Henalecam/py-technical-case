@@ -1,6 +1,7 @@
 # Processador de Dados de Vendas
+Teste técnico- Programador Python Backend
 
-Programa Python para processar e analisar dados de clientes e pedidos, gerando relatórios e estatísticas.
+Programa para processar e analisar dados de clientes e pedidos, gerando relatórios e estatísticas.
 
 ## Requisitos
 
