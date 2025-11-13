@@ -24,6 +24,8 @@ python3 processar_dados.py
 
 ### Todos os tratamentos de erro foram testados individualmente, buscando cobrir todos os casos possíveis para garantir que o programa funcione corretamente.
 
+### Foquei em deixar o código mais legível e fácil de entender, por isso não fiz ninja coding nem funções muito complexas.
+
 
 ### Função main
 O core que chama as outras funções, né.
