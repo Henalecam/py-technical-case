@@ -1,0 +1,18 @@
+{
+  "total_orders_per_customer": {
+    "Ana": 2,
+    "John": 1
+  },
+  "total_revenue_per_country": {
+    "Brasil": 170.0,
+    "EUA": 60.0
+  },
+  "best_selling_product": {
+    "product": "Camiseta",
+    "total_quantity": 3
+  },
+  "top_spending_customer": {
+    "customer": "Ana",
+    "total_spent": 170.0
+  }
+}
